@@ -1,2 +1,5 @@
 # hello-world
-My first repository on GitHub.
+
+Hi Guys! 
+
+This is my first project.I am a student pursuing B.Tech in ECE. 
