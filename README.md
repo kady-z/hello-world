@@ -1,5 +1,5 @@
 # hello-world
 
-Hello World!! I am Ayush or you can say kady.
+Hello World!! I am Ayush or you can say kad-y.
 I am student of Information Technology at NIT Srinagar. 
-Currently I am in 3rd sem of my B.tech.
+Currently I am in II year (3rd sem) of my B.tech.
